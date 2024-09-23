@@ -1,4 +1,11 @@
-<p align="center">My name is Pedro Thales, I am a developer and passionate about technology.</p>
+<h3 align="center">My name is Pedro Thales, I am a developer and passionate about technology.</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroThalesSP&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=7&order=3" height="182" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroThalesSP&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="329" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -19,18 +26,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroThalesSP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroThalesSP&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/pedro-thales-b8b0b8229/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Pedrothalessp@gamil.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/pedrothalessp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />

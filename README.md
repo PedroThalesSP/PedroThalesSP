@@ -3,13 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroThalesSP&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=7&order=3" height="182" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroThalesSP&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="329" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -21,6 +14,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroThalesSP&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=7&order=3" height="182" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroThalesSP&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="329" alt="activity-graph graph"  />
 </div>
 
 ###

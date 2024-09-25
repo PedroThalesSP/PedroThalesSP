@@ -1,4 +1,4 @@
-<h3 align="left">My name is Pedro Thales, I am a developer and passionate about technology.</h3>
+<h3 align="center">My name is Pedro Thales, I am a developer and passionate about technology.</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PedroThalesSP&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroThalesSP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="144" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroThalesSP&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="144" alt="languages graph"  />
 </div>
 
 ###

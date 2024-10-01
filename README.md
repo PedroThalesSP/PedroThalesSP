@@ -1,4 +1,4 @@
-<h3 align="left">My name is Pedro Thales, I am a developer and passionate about technology.</h3>
+<h3 align="center">My name is Pedro Thales, I am a developer and passionate about technology.</h3>
 
 ###
 

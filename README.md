@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="center">Studying<</h4>
+<h4 align="center">Studying</h4>
 
 ###
 

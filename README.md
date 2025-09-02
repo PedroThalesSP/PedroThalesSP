@@ -31,7 +31,7 @@
 
 ###
 
-<h4 align="center">Secondary skills</h4>
+<h4 align="center">Studying<</h4>
 
 ###
 
@@ -45,18 +45,9 @@
 
 ###
 
-<h4 align="center">Studying</h4>
-
 ###
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo"  />
-  <img width="12" />
-</div>
 
 ###
 
